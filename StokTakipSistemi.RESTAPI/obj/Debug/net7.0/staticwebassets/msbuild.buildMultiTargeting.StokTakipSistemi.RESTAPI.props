@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\StokTakipSistemi.RESTAPI.props" />
+</Project>

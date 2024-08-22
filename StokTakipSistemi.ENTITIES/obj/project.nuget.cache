@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MoPzN7sLVyVI4EcIpM9cpPrpkY1MMx8NhUAvOpqRI5svRhyp7hSPY6EotBW2DfZqtEMcdnYiA1zHf514Vhl07Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\90554\\source\\repos\\StokTakipSistemiApi\\StokTakipSistemi.ENTITIES\\StokTakipSistemi.ENTITIES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\90554\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
+    "C:\\Users\\90554\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

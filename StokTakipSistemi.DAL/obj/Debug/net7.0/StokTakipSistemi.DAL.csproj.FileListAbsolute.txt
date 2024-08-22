@@ -1,0 +1,17 @@
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\bin\Debug\net7.0\StokTakipSistemi.DAL.deps.json
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\bin\Debug\net7.0\StokTakipSistemi.DAL.runtimeconfig.json
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\bin\Debug\net7.0\StokTakipSistemi.DAL.dll
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\bin\Debug\net7.0\StokTakipSistemi.DAL.pdb
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\bin\Debug\net7.0\StokTakipSistemi.ENTITIES.dll
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\bin\Debug\net7.0\StokTakipSistemi.ENTITIES.pdb
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\obj\Debug\net7.0\StokTakipSistemi.DAL.csproj.AssemblyReference.cache
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\obj\Debug\net7.0\StokTakipSistemi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\obj\Debug\net7.0\StokTakipSistemi.DAL.AssemblyInfoInputs.cache
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\obj\Debug\net7.0\StokTakipSistemi.DAL.AssemblyInfo.cs
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\obj\Debug\net7.0\StokTakipSistemi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\obj\Debug\net7.0\StokTakipSistemi.DAL.csproj.CopyComplete
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\obj\Debug\net7.0\StokTakipSistemi.DAL.dll
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\obj\Debug\net7.0\refint\StokTakipSistemi.DAL.dll
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\obj\Debug\net7.0\StokTakipSistemi.DAL.pdb
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\obj\Debug\net7.0\StokTakipSistemi.DAL.genruntimeconfig.cache
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.DAL\obj\Debug\net7.0\ref\StokTakipSistemi.DAL.dll
