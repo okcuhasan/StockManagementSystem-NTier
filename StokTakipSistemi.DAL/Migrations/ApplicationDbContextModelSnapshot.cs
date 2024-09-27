@@ -65,7 +65,7 @@ namespace StokTakipSistemi.DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Musterisler");
+                    b.ToTable("Musteriler");
                 });
 
             modelBuilder.Entity("StokTakipSistemi.ENTITIES.Entity.Siparis", b =>
@@ -157,7 +157,7 @@ namespace StokTakipSistemi.DAL.Migrations
 
                     b.HasIndex("UrunId");
 
-                    b.ToTable("StokHareket");
+                    b.ToTable("StokHareketleri");
                 });
 
             modelBuilder.Entity("StokTakipSistemi.ENTITIES.Entity.Tedarikci", b =>

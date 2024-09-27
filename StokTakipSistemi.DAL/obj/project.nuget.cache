@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rovYvXn9IM41nR/2msekSlbB17eT3A1EMgYrQQnz7CPXfOISG/tCykOYksArsd/gEmfFx65aSrxpo6KwXNuA6w==",
+  "dgSpecHash": "yRXH4Fc5KZlWPE3+M6l10zEZvA0EOCx6JoBlJ+fy3r6YukBwwtdp/+mAvi05teL5IBCcH4OWoHxJnwAkvlb2xQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\90554\\source\\repos\\StokTakipSistemiApi\\StokTakipSistemi.DAL\\StokTakipSistemi.DAL.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,9 @@
     "C:\\Users\\90554\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\90554\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\90554\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
+    "C:\\Users\\90554\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\90554\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\90554\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\90554\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\90554\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\90554\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

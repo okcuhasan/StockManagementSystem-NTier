@@ -30,10 +30,11 @@ namespace StokTakipSistemi.DAL.Context
         }
 
         public DbSet<Kategori> Kategoriler { get; set; }
-        public DbSet<Musteri> Musterisler { get; set; }
+        public DbSet<Musteri> Musteriler { get; set; }
         public DbSet<Siparis> Siparisler { get; set; }
         public DbSet<SiparisDetay> SiparisDetaylari { get; set; }
         public DbSet<Tedarikci> Tedarikciler { get; set; }
         public DbSet<Urun> Urunler { get; set; }
+        public DbSet<StokHareket> StokHareketleri { get; set; }
     }
 }

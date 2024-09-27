@@ -1,5 +1,7 @@
+using FluentValidation.AspNetCore;
 using StokTakipSistemi.BLL.DependencyResolvers;
 using StokTakipSistemi.ENTITIES.DataTransferObjects;
+using StokTakipSistemi.ENTITIES.ValidationRules;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +15,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContextService();
 builder.Services.AddRepositoryManagerServices();
 builder.Services.AddAutoMapper(typeof(MapperClasses).Assembly);
+builder.Services.AddFluentValidation(x => { x.RegisterValidatorsFromAssemblyContaining<KategoriDtoValidation>(); });
 
 var app = builder.Build();
 

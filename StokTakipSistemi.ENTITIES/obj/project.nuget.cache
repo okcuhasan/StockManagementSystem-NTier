@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "MoPzN7sLVyVI4EcIpM9cpPrpkY1MMx8NhUAvOpqRI5svRhyp7hSPY6EotBW2DfZqtEMcdnYiA1zHf514Vhl07Q==",
+  "dgSpecHash": "tDq4fbzq+u7pz2w6I5V7d6ZLA4BvDZN++Tqyrwc0YSQqTkHjcQliRUOS54YzRNbArlAA25RpXB5YOXlgeVNhiQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\90554\\source\\repos\\StokTakipSistemiApi\\StokTakipSistemi.ENTITIES\\StokTakipSistemi.ENTITIES.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\90554\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
+    "C:\\Users\\90554\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\90554\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\90554\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\90554\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\90554\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
   ],
   "logs": []

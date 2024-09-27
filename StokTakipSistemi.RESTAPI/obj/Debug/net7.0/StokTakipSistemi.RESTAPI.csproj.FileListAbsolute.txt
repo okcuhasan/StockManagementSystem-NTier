@@ -81,3 +81,6 @@ C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.RESTAPI\obj\Deb
 C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.RESTAPI\obj\Debug\net7.0\StokTakipSistemi.RESTAPI.pdb
 C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.RESTAPI\obj\Debug\net7.0\StokTakipSistemi.RESTAPI.genruntimeconfig.cache
 C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.RESTAPI\obj\Debug\net7.0\ref\StokTakipSistemi.RESTAPI.dll
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.RESTAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.RESTAPI\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\90554\source\repos\StokTakipSistemiApi\StokTakipSistemi.RESTAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
